@@ -1,0 +1,11 @@
+Requirement:
+
+Talend 7.3.1
+JDK 8
+SSMS 18.8
+SQL Server 2019
+
+
+
+Progress Note:
+https://drive.google.com/file/d/1VdHfwFZndugD1CslbCegRHKRwe7vow0F/view?usp=sharing
