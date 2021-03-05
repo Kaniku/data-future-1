@@ -1,0 +1,222 @@
+CLEANING QUERY
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6806;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6810;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6813;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6814;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6823;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6824;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6826;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6835;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6844; UNIQUE
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6846; UNIQUE
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13450;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13453;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13454;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA PALOPO',
+	customer_state = 'SULAWESI SELATAN'
+WHERE customer_zip_code = 13806;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN TANAH DATAR',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 13820;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN TULANG BAWANG BARAT',
+	customer_state = 'LAMPUNG'
+WHERE customer_zip_code = 13910;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN MAMBERAMO TENGAH',
+	customer_state = 'PAPUA'
+WHERE customer_zip_code = 15720;
+
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN NIAS BARAT',
+	customer_state = 'SUMATERA UTARA'
+WHERE customer_zip_code = 23970;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN SIAK'
+WHERE customer_city = 'KABUPATEN S I A K';
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA BATAM'
+WHERE customer_city = 'KOTA B A T A M';
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA DUMAI'
+WHERE customer_city = 'KOTA D U M A I';
+
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA BUKITTINGGI',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 36576;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN WAROPEN',
+	customer_state = 'PAPUA'
+WHERE customer_zip_code = 37530;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN KONAWE UTARA',
+	customer_state = 'SULAWESI TENGGARA'
+WHERE customer_zip_code = 37925;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BARITO TIMUR',
+	customer_state = 'KALIMANTAN TENGAH'
+WHERE customer_zip_code = 38749;
+
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BADUNG',
+	customer_state = 'BALI'
+WHERE customer_zip_code = 42840;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA BUKITTINGGI',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 42850;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN SUMBA TENGAH',
+	customer_state = 'NUSA TENGGARA TIMUR'
+WHERE customer_zip_code = 44200;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA YOGYAKARTA',
+	customer_state = 'DI YOGYAKARTA'
+WHERE customer_zip_code = 45816;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN MALUKU TENGGARA BARAT',
+	customer_state = 'MALUKU'
+WHERE customer_zip_code = 48355;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA DENPASAR',
+	customer_state = 'BALI'
+WHERE customer_zip_code = 55485;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KOTA BOGOR',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 62600;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71065;
+
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71937;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71939;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 72270;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 73060;
+
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN ACEH BARAT',
+	customer_state = 'ACEH'
+WHERE customer_zip_code = 73752;
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN MOROWALI UTARA',
+	customer_state = 'SULAWESI TENGAH'
+WHERE customer_zip_code = 79760;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN MANOKWARI SELATAN',
+	customer_state = 'PAPUA BARAT'
+WHERE customer_zip_code = 85139;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN KATINGAN',
+	customer_state = 'KALIMANTAN TENGAH'
+WHERE customer_zip_code = 85575;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN LOMBOK UTARA',
+	customer_state = 'NUSA TENGGARA BARAT'
+WHERE customer_zip_code = 88380;
+
+UPDATE user_dataset_ori
+SET customer_city = 'KABUPATEN KAIMANA',
+	customer_state = 'PAPUA BARAT'
+WHERE customer_zip_code = 89294;
+
+
+
+
+
