@@ -1,0 +1,2 @@
+Job di talend sudah tinggal di run saja, namun jika tidak bisa, maka folder DATASET RAW dan DataWarehouse harus diletakkan di C:\ (Disk C)
+
