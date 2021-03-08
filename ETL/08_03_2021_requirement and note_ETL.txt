@@ -1,0 +1,12 @@
+Catatan progress ETL:
+
+https://drive.google.com/file/d/18UTmzbVhGB64Yk5LTwej8nrBqfNzH0jw/view?usp=sharing
+
+Requirement:
+
+Java 8 (JDK 8 & JRE 8)
+Talend 7.3.1
+SQL Server 2019
+SSMS 18.8
+Dbeaver 7.3.3
+Postgresql 9.5.24
