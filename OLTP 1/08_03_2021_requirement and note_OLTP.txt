@@ -1,0 +1,8 @@
+Catatan mengenai OLTP yang dipush pada 6 dan 7 Maret 2021:
+
+https://drive.google.com/file/d/1VCqQ8SQHT5gEr8MGxVe5JsRF2rB7NyM-/view?usp=sharing
+
+Requirement:
+
+DBeaver 7.3.3
+Postgresql 9.5.24
