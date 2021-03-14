@@ -1,0 +1,882 @@
+Cleaning query user_dataset
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6806; (4)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6810; (14)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6813; (13) 
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6814; (15)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6823; (20)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6824; (10)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6826; (16)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6835; (4)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6844; UNIQUE
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA TEGAL',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 6846; UNIQUE
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13450; (30)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13453; (12)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BLORA',
+	customer_state = 'JAWA TENGAH'
+WHERE customer_zip_code = 13454; (20)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA PALOPO',
+	customer_state = 'SULAWESI SELATAN'
+WHERE customer_zip_code = 13806; (24)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN TANAH DATAR',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 13820; (60)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN TULANG BAWANG BARAT',
+	customer_state = 'LAMPUNG'
+WHERE customer_zip_code = 13910; (4)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN MAMBERAMO TENGAH',
+	customer_state = 'PAPUA'
+WHERE customer_zip_code = 15720; (6)
+
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN NIAS BARAT',
+	customer_state = 'SUMATERA UTARA'
+WHERE customer_zip_code = 23970; (32)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN SIAK'
+WHERE customer_city = 'KABUPATEN S I A K'; (65)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA BATAM'
+WHERE customer_city = 'KOTA B A T A M'; (71)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA DUMAI'
+WHERE customer_city = 'KOTA D U M A I'; (15)
+
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA BUKITTINGGI',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 36576; (4)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN WAROPEN',
+	customer_state = 'PAPUA'
+WHERE customer_zip_code = 37530; (4)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN KONAWE UTARA',
+	customer_state = 'SULAWESI TENGGARA'
+WHERE customer_zip_code = 37925; (31)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BARITO TIMUR',
+	customer_state = 'KALIMANTAN TENGAH'
+WHERE customer_zip_code = 38749; (2)
+
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BADUNG',
+	customer_state = 'BALI'
+WHERE customer_zip_code = 42840; (3)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA BUKITTINGGI',
+	customer_state = 'SUMATERA BARAT'
+WHERE customer_zip_code = 42850; (25)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN SUMBA TENGAH',
+	customer_state = 'NUSA TENGGARA TIMUR'
+WHERE customer_zip_code = 44200; (10)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA YOGYAKARTA',
+	customer_state = 'DI YOGYAKARTA'
+WHERE customer_zip_code = 45816; (10)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN MALUKU TENGGARA BARAT',
+	customer_state = 'MALUKU'
+WHERE customer_zip_code = 48355; (3)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA DENPASAR',
+	customer_state = 'BALI'
+WHERE customer_zip_code = 55485; (2)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KOTA BOGOR',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 62600; (7)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71065; (19)
+
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71937; (15)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 71939; (11)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 72270; (8)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN BEKASI',
+	customer_state = 'JAWA BARAT'
+WHERE customer_zip_code = 73060; (2)
+
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN ACEH BARAT',
+	customer_state = 'ACEH'
+WHERE customer_zip_code = 73752; (5)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN MOROWALI UTARA',
+	customer_state = 'SULAWESI TENGAH'
+WHERE customer_zip_code = 79760; (3)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN MANOKWARI SELATAN',
+	customer_state = 'PAPUA BARAT'
+WHERE customer_zip_code = 85139; (6)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN KATINGAN',
+	customer_state = 'KALIMANTAN TENGAH'
+WHERE customer_zip_code = 85575; (2)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN LOMBOK UTARA',
+	customer_state = 'NUSA TENGGARA BARAT'
+WHERE customer_zip_code = 88380; (11)
+
+UPDATE user_dataset_clean
+SET customer_city = 'KABUPATEN KAIMANA',
+	customer_state = 'PAPUA BARAT'
+WHERE customer_zip_code = 89294; (3)
+
+Cleaning query seller_dataset
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 1207; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 2051; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 3363; (10)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 3407; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 3581; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 4007; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 4130; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 4557; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 4776; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 5141; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = ‘BANTEN'
+WHERE seller_zip_code = 5303; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 5353; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA SURABAYA',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 6280; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN PATI',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 6311; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PONTIANAK',
+	seller_state = 'KALIMANTAN BARAT'
+WHERE seller_zip_code = 6760; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PONTIANAK',
+	seller_state = 'KALIMANTAN BARAT'
+WHERE seller_zip_code = 6764; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TAKALAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 6900; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG SELATAN',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 7077; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KAMPAR',
+	seller_state = 'RIAU'
+WHERE seller_zip_code = 7411; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 8050; (1)
+
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BANDUNG BARAT',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 8710; (5)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BANDUNG BARAT',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 8717; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BOGOR',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9190; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BOGOR',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9230; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN CILACAP',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 9380; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SUKABUMI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9560; (5)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9687; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9721; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9726; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9861; (1)
+
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA CIREBON',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 9911; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MOJOKERTO',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 11450; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BOJONEGORO',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 12306; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KUTAI TIMUR',
+	seller_state = 'KALIMANTAN TIMUR'
+WHERE seller_zip_code = 12401; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN LAMONGAN',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 12903; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PEKANBARU',
+	seller_state = 'RIAU'
+WHERE seller_zip_code = 13420; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BLORA',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 13450; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BLORA',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 13456; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = ' KABUPATEN LABUHAN BATU',
+	seller_state = ' SUMATERA UTARA'
+WHERE seller_zip_code = 13600; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BONTANG',
+	seller_state = 'KALIMANTAN TIMUR'
+WHERE seller_zip_code = 13660; (10)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BANJAR BARU',
+	seller_state = 'KALIMANTAN SELATAN'
+WHERE seller_zip_code = 13720; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN PUNCAK JAYA',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 13790;  (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TANAH DATAR',
+	seller_state = 'SUMATERA BARAT'
+WHERE seller_zip_code = 13820;  (3)
+
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 13840; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 13843; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 13844; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 13845; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 13848; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MAKASSAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 14015; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MAKASSAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 14027; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MAKASSAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 14078; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MAKASSAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 14079; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MAKASSAR',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 14085; (4) 
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN PURWAKARTA',
+	seller_state = ‘JAWA BARAT'
+WHERE seller_zip_code = 14110; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN DELI SERDANG',
+	seller_state = 'SUMATERA UTARA'
+WHERE seller_zip_code = 15014; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN DELI SERDANG',
+	seller_state = 'SUMATERA UTARA'
+WHERE seller_zip_code = 15051; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN NABIRE',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 15350; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BATAM'
+WHERE seller_city = 'KOTA B A T A M'; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MOJOKERTO',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 16021; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KAPUAS',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 17606; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KUBU RAYA',
+	seller_state = 'KALIMANTAN BARAT'
+WHERE seller_zip_code = 18500; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MANOKWARI SELATAN',
+	seller_state = 'PAPUA BARAT'
+WHERE seller_zip_code = 19400; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 20081; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 21210; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 21320; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 22050; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 22783; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 22790; (5)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA BARAT',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 22793; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TABALONG',
+	seller_state = 'KALIMANTAN SELATAN'
+WHERE seller_zip_code = 23943; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MANOKWARI',
+	seller_state = 'PAPUA BARAT'
+WHERE seller_zip_code = 24855; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SUMENEP',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 25900; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PALEMBANG',
+	seller_state = 'SUMATERA SELATAN'
+WHERE seller_zip_code = 26051; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SUKOHARJO',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 27277; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TULUNGAGUNG',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 28035; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN AGAM',
+	seller_state = 'SUMATERA BARAT'
+WHERE seller_zip_code = 28810; (1) 
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN CIREBON',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 29101; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PEMATANG SIANTAR',
+	seller_state = 'SUMATERA UTARA'
+WHERE seller_zip_code = 29142; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SIAK'
+WHERE seller_city = 'KABUPATEN S I A K';
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 31160; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 31255; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 31340; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN TANGERANG',
+	seller_state = 'BANTEN'
+WHERE seller_zip_code = 31570; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MIMIKA',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 35660; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KUDUS',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 36010; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KARIMUN',
+	seller_state = 'KEPULAUAN RIAU'
+WHERE seller_zip_code = 36200; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MUARO JAMBI',
+	seller_state = 'JAMBI'
+WHERE seller_zip_code = 36512; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KEPULAUAN YAPEN',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 37165; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SINJAI',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 37540; (7)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BIMA',
+	seller_state = 'NUSA TENGGARA BARAT'
+WHERE seller_zip_code = 37795; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN LANGKAT',
+	seller_state = 'SUMATERA UTARA'
+WHERE seller_zip_code = 39801; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA TASIKMALAYA',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 44600; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA YOGYAKARTA',
+	seller_state = 'DI YOGYAKARTA'
+WHERE seller_zip_code = 45816; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN SUMBA TENGAH',
+	seller_state = 'NUSA TENGGARA TIMUR'
+WHERE seller_zip_code = 48602; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA CIMAHI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 63020; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 71900; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 71906; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BEKASI',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 72460; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA MATARAM',
+	seller_state = 'NUSA TENGGARA BARAT'
+WHERE seller_zip_code = 76900; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA SELATAN',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 80240; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA SELATAN',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 81020; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA SELATAN',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 81560; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAYAPURA',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 83020; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAYAPURA',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 83040; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BONE',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 83321; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BONE',
+	seller_state = 'SULAWESI SELATAN'
+WHERE seller_zip_code = 83327; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN LEBONG',
+	seller_state = 'BENGKULU'
+WHERE seller_zip_code = 85301; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BREBES',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 85802; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN BARAT',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 85960; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PADANG',
+	seller_state = ' SUMATERA BARAT'
+WHERE seller_zip_code = 86076; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BUTON TENGAH',
+	seller_state = 'SULAWESI TENGGARA'
+WHERE seller_zip_code = 86170; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA KENDARI',
+	seller_state = 'SULAWESI TENGGARA'
+WHERE seller_zip_code = 86385; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BANYUMAS',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 87025; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BANYUMAS',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 87083; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN PANIAI',
+	seller_state = 'PAPUA'
+WHERE seller_zip_code = 87140; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN MAMUJU UTARA',
+	seller_state = 'SULAWESI BARAT'
+WHERE seller_zip_code = 87360; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BANDUNG',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 88056; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city =  'KABUPATEN BANDUNG',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 88075; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN TIMUR',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 88135; (3)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KOTAWARINGIN TIMUR',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 88136; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BINJAI',
+	seller_state = 'SUMATERA UTARA'
+WHERE seller_zip_code = 88301; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BERAU',
+	seller_state = 'KALIMANTAN TIMUR'
+WHERE seller_zip_code = 88330; (4)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN LOMBOK UTARA',
+	seller_state = 'NUSA TENGGARA BARAT'
+WHERE seller_zip_code = 88380; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PRABUMULIH',
+	seller_state = 'SUMATERA SELATAN'
+WHERE seller_zip_code = 88501; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = ' KOTA PADANGSIDIMPUAN',
+	seller_state = ' SUMATERA UTARA'
+WHERE seller_zip_code = 88790; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN GARUT',
+	seller_state = 'JAWA BARAT'
+WHERE seller_zip_code = 89052; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA BATU',
+	seller_state = 'JAWA TIMUR'
+WHERE seller_zip_code = 89803; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN BERAU',
+	seller_state = 'KALIMANTAN TIMUR'
+WHERE seller_zip_code = 89900; (2)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA JAKARTA UTARA',
+	seller_state = 'DKI JAKARTA'
+WHERE seller_zip_code = 91520; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KOTA PALANGKA RAYA',
+	seller_state = 'KALIMANTAN TENGAH'
+WHERE seller_zip_code = 93310; (1)
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KARANGANYAR',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 95055; (1)	
+
+UPDATE seller_dataset_clean
+SET seller_city = 'KABUPATEN KARANGANYAR',
+	seller_state = 'JAWA TENGAH'
+WHERE seller_zip_code = 95076; (2)
+
