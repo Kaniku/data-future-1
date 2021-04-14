@@ -1,0 +1,9 @@
+Catatan mengenai OLTP, STAGING, DATAWAREHOUSE, DAN DATAMART
+
+https://drive.google.com/file/d/1myaOkGWJ7-eHymd6YvSgjlxy5-huMVUH/view?usp=sharing
+
+Requirement:
+
+DBeaver 7.3.3
+Postgresql 9.5.24
+Talend 7.3.1
