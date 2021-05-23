@@ -1,0 +1,10 @@
+Catatan mengenai OLTP, STAGING, DATAWAREHOUSE:
+
+https://drive.google.com/file/d/1vlOMMfFmVTH8DZNDIFzXoiZ62X5LCF3m/view?usp=sharing
+
+Requirement:
+
+DBeaver 7.3.3
+Postgresql 9.5.24
+Talend 7.3.1
+JDK 8
